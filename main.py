@@ -63,7 +63,7 @@ target_downloads = {
     "Maths": list(range(11, 137)),
     "English": list(range(140, 298)),
     "Reasoning": list(range(303, 393)),
-    "Gk-GS": list(range(397, 513))
+    "Gk-GS": list(range(397, 514))
 }
 
 
